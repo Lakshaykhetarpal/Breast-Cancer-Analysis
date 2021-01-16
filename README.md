@@ -1,2 +1,2 @@
-# Breast-Cancer-Analysis
-Predicting patients with breast cancer(Using Logistics regression)
+# Breast-Cancer
+Prediction Patients with Breast Customer using Logistics Regression
